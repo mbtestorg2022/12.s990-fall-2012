@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding quantif
   uncertainty.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-s990-quantifying-uncertainty-fall-2012/ac6e48ed6f5acbe88928a5e018a83be6_MIT12_S990F12_Lecture10.pdf
 file_type: application/pdf
+parent_uid: e0002871-d5bb-07d1-0832-1d3fa2cc1be8
 resourcetype: Document
 title: Quantifying Uncertainity, Lecture 10
 uid: ac6e48ed-6f5a-cbe8-8928-a5e018a83be6
